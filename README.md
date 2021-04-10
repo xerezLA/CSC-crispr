@@ -19,15 +19,15 @@ To install system wide, run
         python setup.py build
         python setup.py install
 
-For local installation, run something like
-
-    system
-        python setup.py install --user
-
 Alternatively a user can install via pypi with
 
      system
         pip install CSC-crispr
+        
+For local installation, run something like
+
+    system
+        python setup.py install --user
 
 and then make sure that the local directory with binaries (such as `$HOME/Library/Python/3.8/bin/`) is available in your PATH.
 
