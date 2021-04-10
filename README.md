@@ -12,6 +12,10 @@ CSC will attempt to install pyearth upon running setup.py, however, it is strong
     
     system
         conda install sklearn-contrib-py-earth
+        
+Additional install commands for pyearth are found here:
+
+https://anaconda.org/conda-forge/sklearn-contrib-py-earth
 
 To install system wide, run 
 
